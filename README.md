@@ -1,0 +1,5 @@
+- 👋 Hi, I’m HABIB MUHAMMAD KABIR
+- 👀 I’m interested in Codinding with python,java and C++.
+- 🌱 I’m currently learning UI/UX Designing & Artificial Intelligent (Ai).
+- 💞️ I’m looking to collaborate on social media app development.
+- 📫 How to reach me: habibmk01@gmail.com or through Whatsapp @ +2349061282828.
